@@ -11,5 +11,6 @@
 </p>
 
 <p>
-    Curso de Javascript avançado, que eu subi para armazenamento no git. 🤓
+    Curso de Javascript avançado, que eu subi para armazenamento no git. 🤓 <br>
+    Fique a vontade para estudar e aprender também.
 </p>
