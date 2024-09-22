@@ -13,4 +13,10 @@
 <p>
     Curso de Javascript avançado, que eu subi para armazenamento no git. 🤓 <br>
     Fique a vontade para estudar e aprender também.
+    Links dos cursos:
 </p>
+
+<hr>
+
+-   [Youtube](https://www.youtube.com/playlist?list=PL-R1FQNkywO4sD42B6OI6KjG3uOPT0aNl)
+-   [Udemy](https://www.udemy.com/course/curso-de-javascript-moderno-do-basico-ao-avancado)
