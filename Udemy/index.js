@@ -1,3 +1,4 @@
 /**
- * Curso da udemy, avançado e com typescript
+ * Curso da udemy:
+ * JS avançado, typescript, node e react
  */
