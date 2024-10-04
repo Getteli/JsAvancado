@@ -9,7 +9,7 @@
  */
 
 /**
- * Function hoinsting
+ * Function hoisting
  * 
  * Quando se declara uma função no modo padrão, de forma explicita, o motor/engine do javascript, na hora da execução
  * Vai colocar a função no topo do script, de forma que você possa chamar a função a partir de qualquer ponto
