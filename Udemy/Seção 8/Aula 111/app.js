@@ -1,0 +1,4 @@
+/**
+ * Promisses (Promessas)
+ * Xmlhttprequest (GET)
+ */
